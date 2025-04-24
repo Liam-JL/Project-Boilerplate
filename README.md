@@ -1,2 +1,3 @@
-# Project Boilerplate
-npx webpack and dependencies for starting a new web project
+After setting up repo using template, clone it and run:
+npm install
+npx webpack serve
